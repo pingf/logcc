@@ -1,0 +1,8 @@
+build/
+dist/
+.idea/
+Pipfile
+Pipfile.lock
+**/__pycache__/
+**/*.egg-info/
+**/*.pyc
