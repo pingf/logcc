@@ -1,0 +1,18 @@
+__main__            INFO    [3957] value begin
+__main__            INFO    [3975] value 3
+__main__            INFO    [3973] value 1
+__main__            INFO    [3974] value 2
+__main__            INFO    [3976] value 4
+__main__            INFO    [3957] value end
+__main__            INFO    [4070] value begin
+__main__            INFO    [4082] value 2
+__main__            INFO    [4081] value 1
+__main__            INFO    [4083] value 3
+__main__            INFO    [4084] value 4
+__main__            INFO    [4070] value end
+__main__            INFO    6768,begin
+__main__            INFO    6787,3
+__main__            INFO    6786,2
+__main__            INFO    6785,1
+__main__            INFO    6788,4
+__main__            INFO    6768,end
